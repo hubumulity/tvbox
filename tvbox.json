@@ -7,7 +7,8 @@
       "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     },
     {
       "key": "量子",
@@ -16,7 +17,8 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     },
     {
       "key": "暴风",
@@ -25,7 +27,8 @@
       "api": "http://by.bfzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     }
   ],
   "lives": [
@@ -282,3 +285,4 @@
     "cms.qdwght.com"
   ]
 }
+
